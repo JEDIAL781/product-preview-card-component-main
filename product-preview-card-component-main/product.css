@@ -1,0 +1,50 @@
+* {
+  max-width: 375px;
+  margin: 7px 7px 7px;
+}
+.heading {
+  color: grey;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.header {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  opacity: 0.9;
+}
+.explain {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: gray;
+  opacity: 0.8;
+  font-size: 14px;
+}
+.price {
+  display: flex;
+  justify-content: space-between;
+}
+.price2 {
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 900;
+  font-family: montserrat;
+}
+.price3 {
+  color: grey;
+  text-decoration: line-through;
+}
+button {
+  width: 80%;
+  height: 40px;
+  background-color: rgb(24, 179, 114);
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 14px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.last {
+  display: flex;
+  justify-content: center;
+}
